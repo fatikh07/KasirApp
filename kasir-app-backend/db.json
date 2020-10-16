@@ -185,8 +185,8 @@
   ],
   "keranjangs": [
     {
-      "jumlah": 2,
-      "total_harga": 32000,
+      "jumlah": 1,
+      "total_harga": 16000,
       "product": {
         "id": 1,
         "kode": "K-01",
@@ -199,41 +199,8 @@
           "nama": "Makanan"
         }
       },
+      "keterangan": "Bungkus",
       "id": 1
-    },
-    {
-      "jumlah": 2,
-      "total_harga": 24000,
-      "product": {
-        "id": 3,
-        "kode": "K-03",
-        "nama": "Nasi Rames",
-        "harga": 12000,
-        "is_ready": true,
-        "gambar": "nasi-rames.jpg",
-        "category": {
-          "id": 1,
-          "nama": "Makanan"
-        }
-      },
-      "id": 2
-    },
-    {
-      "jumlah": 2,
-      "total_harga": 20000,
-      "product": {
-        "id": 6,
-        "kode": "K-06",
-        "nama": "Bakso",
-        "harga": 10000,
-        "is_ready": true,
-        "gambar": "bakso.jpg",
-        "category": {
-          "id": 1,
-          "nama": "Makanan"
-        }
-      },
-      "id": 3
     },
     {
       "jumlah": 1,
@@ -250,7 +217,7 @@
           "nama": "Makanan"
         }
       },
-      "id": 4
+      "id": 2
     }
   ],
   "pesanans": [
